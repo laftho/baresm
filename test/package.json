@@ -1,0 +1,16 @@
+{
+  "name": "baresm.test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material/mwc-button": "^0.12.0",
+    "baresm": "file:..",
+    "test-module": "file:../test-module"
+  }
+}

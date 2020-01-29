@@ -1,0 +1,27 @@
+{
+  "name": "baresm",
+  "version": "0.0.1",
+  "description": "web service worker to resolve es6 bare module specifiers",
+  "main": "baresm.js",
+  "module": "baresm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laftho/baresm.git"
+  },
+  "author": "Thomas LaFreniere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laftho/baresm/issues"
+  },
+  "homepage": "https://github.com/laftho/baresm#readme",
+  "keywords": [
+    "es6",
+    "modules",
+    "sw",
+    "bare",
+    "specifiers"
+  ]
+}
