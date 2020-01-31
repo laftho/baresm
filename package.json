@@ -1,6 +1,6 @@
 {
   "name": "baresm",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "web service worker to resolve es6 bare module specifiers",
   "main": "baresm.js",
   "module": "baresm.js",
